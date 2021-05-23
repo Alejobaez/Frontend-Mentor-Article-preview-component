@@ -19,8 +19,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [solution](https://)
+- Live Site URL: [live site](https://alejobaez.github.io/Frontend-Mentor-Article-preview-component/)
 
 ## My process
 
@@ -32,5 +32,4 @@ Users should be able to:
 - CSS Grid
 - Mobile-first workflow
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@Alejobaez](https://www.frontendmentor.io/profile/Alejobaez)
